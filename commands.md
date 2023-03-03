@@ -1,0 +1,4 @@
+- gcc -o myprogram myprogram.c -lcs50
+- clang -o <file_name> <c_file_name> -lcs50 (command line argument: modifies behaviour of command to specify output)
+- make <file> is a CS50 configuration 
+- debug50 <c_file_name>
