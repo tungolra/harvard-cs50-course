@@ -9,5 +9,11 @@
 
 - solving bugs
     - printf
-    - 
 
+- memory is contiguous -> left to right, top to bottom as data is stored in a piece of hardware 
+
+- C adds an extra byte "\0" (called NUL in ASCII) as a delimiter to separate strings 
+
+- int main(int argc, string argv[]): argument count (argc), array of strings(argv[])
+
+- 
