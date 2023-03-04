@@ -16,4 +16,4 @@
 
 - int main(int argc, string argv[]): argument count (argc), array of strings(argv[])
 
-- 
+- initializing an array -> int hours[] = {7, 5, 6,...#}

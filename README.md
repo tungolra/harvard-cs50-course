@@ -1,4 +1,5 @@
-# harvard-cs50-course
+# HarvardX CS50 course
+## Introduction to Computer Science
 
 ### Curriculum
 - Week 0 - Scratch
