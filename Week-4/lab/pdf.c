@@ -37,12 +37,12 @@ int main(int argc, string argv[])
         if (buffer[i] != signature[i])
         {
             printf("Likely not a PDF.\n");
+            fclose(file);
             return 0;
         }
         printf("Likely a PDF!\n");
+        fclose(file);
         return 0;
         // printf("%i\n", buffer[i]);
     }
-
-    fclose(file);
 }
